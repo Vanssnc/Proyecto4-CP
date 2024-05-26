@@ -1,0 +1,29 @@
+body{
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar {
+  background-color: #28a745;
+}
+
+.card-footer {
+  background-color: #fff;
+}
+
+.precio {
+  color: #28a745;
+}
+
+.box-input {
+  background-color: #28a745;
+  color: #fff;
+
+}
+
+.box-footer {
+  background-color: #fff;
+}
+
+.logo-black {
+  width: 70px;
+}
